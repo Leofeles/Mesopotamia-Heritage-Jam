@@ -177,12 +177,11 @@ body {
 
 .about {
   padding: 100px 0;
+  max-width: 100%;
+  background-color: #b33c00;
 }
 
-table {
-   max-width: 100%;
-   background-color: #b33c00;
-}
+
 /* Services */
 
 .services {
