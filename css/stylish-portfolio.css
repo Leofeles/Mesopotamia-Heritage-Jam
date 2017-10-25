@@ -166,7 +166,10 @@ hr.small {
 }
 
 body {
-  color:#B75002;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;    // Changed
 }
 
 
