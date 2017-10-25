@@ -174,7 +174,9 @@ body {
 
 
 /* About */
-
+.header{
+  background: url(../img/1200px-N-Mesopotamia_and_Syria_english.svg.png) no-repeat center center scroll;
+}
 .about {
   padding: 100px 0;
 }
